@@ -31,6 +31,10 @@ html {
   font-family: "Roboto", sans-serif;
 }
 
+h2 {
+  font-size: 5rem;
+}
+
 .wrapper {
   width: 90%;
   margin: 0 auto;
@@ -116,6 +120,13 @@ html {
   padding-bottom: 3rem;
   color: gray;
 }
+
+/* Work Section */
+#work h2 {
+  padding: 5rem 0rem;
+  text-align: center;
+}
+
 /* Media Querries */
 
 @media screen and (max-width: 965px) {
